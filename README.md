@@ -17,7 +17,11 @@
 ### It's easy, just go to Issues and create a new one with a specific tag(label).
 
 # Team
-
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/Kristalkill"><img src="https://avatars.githubusercontent.com/u/61952301?s=400&u=b6eceffe40777c190fb6884d404651ea9aa46523&v=4" width="100px;" alt=""/><br /><sub><b>Kristalkill</b></sub></a><br />👑 💻 📖</td>
+  </tr>
+</table>
 
 
 # Contributors
